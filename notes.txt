@@ -1,0 +1,2 @@
+[2026-02-05 18:13:17] This is my Note in my Python app
+[2026-02-05 18:14:26] I am a best python programmer now :) 
